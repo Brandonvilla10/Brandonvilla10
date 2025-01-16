@@ -5,7 +5,7 @@ Hola, Soy Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Aprendiz+SENA;Front+End+Web+Developer;Backend+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=100">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aprendiz+SENA;Front+End+Web+Developer;Backend+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=10">
   </a>
 </p>
 
@@ -63,23 +63,22 @@ Me dedico a ofrecer desarrollo en el área asignada, brindando soluciones eficie
 </div>
 
 <hr>
-
 ## 📬 &nbsp;¡Conecta Conmigo!
 
 <p align="center">
-  <a href="[https://www.instagram.com/tu_usuario](https://www.instagram.com/pinwisaurio/)" target="_blank">
+  <a href="https://www.instagram.com/pinwisaurio" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/tu_usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/brandon-villanueva-6760a51b2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/tu_usuario" target="_blank">
+  <a href="https://github.com/Brandonvilla10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:tu_correo@gmail.com" target="_blank">
+  <a href="mailto:brandonyulian10@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
   </a>
-  <a href="https://discord.com/users/tu_usuario" target="_blank">
+  <a href="https://discord.com/users/pinwisaurio" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
@@ -98,12 +97,4 @@ Me dedico a ofrecer desarrollo en el área asignada, brindando soluciones eficie
 
 > 🚀 Siempre dispuesto a colaborar y aprender cosas nuevas. ¡Hablemos! 😄
 
-
-<p >
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</p>
 
