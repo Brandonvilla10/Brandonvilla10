@@ -12,7 +12,6 @@ Hola, Soy Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
 <hr>
 
 
-
 <h3>Soy un desarrollador de software Junior </h3>
 
 Soy un desarrollador de software capacitado, enfocado en aprender continuamente y en ofrecer soluciones a grandes problemas.
@@ -29,7 +28,7 @@ Me dedico a ofrecer desarrollo en el área asignada, brindando soluciones eficie
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/react-%230D8BF0.svg?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,11 +60,19 @@ Me dedico a ofrecer desarrollo en el área asignada, brindando soluciones eficie
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
-
 <hr>
+
+<h1> 🌐 &nbsp;✨ Visita Mi Página Web ✨</h1>
+
+<p align="right">
+  <a href="https://www.tupaginaweb.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-%23007BFF.svg?style=for-the-badge&logoColor=white" alt="Portafolio" width="250" height="70">
+  </a>
+</p>
+
 ## 📬 &nbsp;¡Conecta Conmigo!
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/pinwisaurio" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
