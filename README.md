@@ -11,11 +11,22 @@ Hola, Soy Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
 
 <hr>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
+
+
+<h3>Soy un desarrollador de software Junior </h3>
+
+Soy un desarrollador de software capacitado, enfocado en aprender continuamente y en ofrecer soluciones a grandes problemas.
+Me dedico a ofrecer desarrollo en el área asignada, brindando soluciones eficientes en frontend y trabajando con backend con las competencias que requiere mi área.
+
+* 🌍  Vivo Ibague, Colombia
+* ✉️  Puedes contactarme pormedio de [Brandonyulian10@gmail.com] o mi numero telefonico [3228023705]
+* 🧠  Me encuentro en un aprendizaje constate
+* 🤝  
 
 ### 🛠 &nbsp;Tecnologías
-
-<div align="center">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
+<hr>
+<div align="left">
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/react-%230D8BF0.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -36,7 +47,7 @@ Hola, Soy Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
 
 ### 🧰 &nbsp;Herramientas y Control de Versiones
 
-<div align="center">
+<div align="left">
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
