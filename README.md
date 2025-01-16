@@ -5,7 +5,7 @@ Hola, Soy Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gip
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Aprendiz+SENA;Front+End+Web+Developer;Backend+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=10">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aprendiz+SENA;Front+End+Web+Developer;Backend+Web+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=30">
   </a>
 </p>
 
