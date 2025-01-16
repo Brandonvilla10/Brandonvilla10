@@ -21,7 +21,6 @@ Me dedico a ofrecer desarrollo en el área asignada, brindando soluciones eficie
 * 🌍  Vivo Ibague, Colombia
 * ✉️  Puedes contactarme pormedio de [Brandonyulian10@gmail.com] o mi numero telefonico [3228023705]
 * 🧠  Me encuentro en un aprendizaje constate
-* 🤝  
 
 ### 🛠 &nbsp;Tecnologías
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
@@ -64,6 +63,41 @@ Me dedico a ofrecer desarrollo en el área asignada, brindando soluciones eficie
 </div>
 
 <hr>
+
+## 📬 &nbsp;¡Conecta Conmigo!
+
+<p align="center">
+  <a href="[https://www.instagram.com/tu_usuario](https://www.instagram.com/pinwisaurio/)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:tu_correo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
+  </a>
+  <a href="https://discord.com/users/tu_usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
+
+---
+
+### ✉️ ¿Qué Puedes Hacer Aquí?
+
+- 🌟 **Instagram**: Mira mis proyectos y cosas personales.
+- 🔗 **LinkedIn**: Hablemos de oportunidades profesionales.
+- 💻 **GitHub**: Explora mis repositorios y colaboraciones.
+- 📧 **Correo Electrónico**: Escríbeme directamente.
+- 🎮 **Discord**: ¡Charlemos mientras conquisto el mundo tech!
+
+---
+
+> 🚀 Siempre dispuesto a colaborar y aprender cosas nuevas. ¡Hablemos! 😄
+
 
 <p >
     <picture align="center">
