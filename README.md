@@ -1,6 +1,6 @@
 <h1 align="center">
-Hola, Soy Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><<br/>
-  Puedes Llamarme Pinwisaurio🐧🦖/h1>
+Hola, Soy Brandon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"><br/>
+  Puedes Llamarme Pinwisaurio🐧🦖</h1>
 
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
