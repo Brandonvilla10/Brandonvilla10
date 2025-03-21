@@ -22,7 +22,6 @@ Me dedico a ofrecer desarrollo en el área asignada, brindando soluciones eficie
 * 🧠  Me encuentro en un aprendizaje constate
 
 ### 🛠 &nbsp;Tecnologías
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="300"/>
 <hr>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   
@@ -44,6 +43,7 @@ Me dedico a ofrecer desarrollo en el área asignada, brindando soluciones eficie
 
 </div>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="100"/>
 
 <hr>
 
